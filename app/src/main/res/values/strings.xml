@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stormy</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Error_Title">Oops! Sorry!</string>
+    <string name="Error_Body">Something went wrong :(</string>
+    <string name="OK">OK</string>
+    <string name="NETWORK_UNAVALIABLE">Network is Unavaliable!</string>
+    <string name="title_activity_splashscreen">SplashscreenActivity</string>
+</resources>
